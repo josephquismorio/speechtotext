@@ -1,5 +1,5 @@
 # speechtotext
-basic react.js speech-to-text app, based on [this video](https://www.youtube.com/watch?v=U2g--_TDYj4). utilizes the microphone as input for speech recognition feed and transcribes it to on-screen text. the css on this one is abysmal my bad
+basic react.js speech-to-text app. utilizes the microphone as input for speech recognition feed and transcribes it to on-screen text. the css on this one is abysmal my bad
 
 # Getting Started with Create React App
 
